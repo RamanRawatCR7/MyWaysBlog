@@ -1,0 +1,40 @@
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.logo {
+  height: 100px;
+  width: auto;
+}
+
+.btn-1 {
+  color: #3C5A5F;
+}
+
+.btn-2 {
+  background-color: #3C5A5F;
+}
+
+.footer {
+  position: absolute;
+  color: #fff;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+  padding-top: 15px;
+	background-color: #3C5A5F;
+  margin-bottom: 0rem;
+}
