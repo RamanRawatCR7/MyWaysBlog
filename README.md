@@ -64,9 +64,9 @@ This project is about a blogging portal for MyWays with functionality to create,
 <!-- CONTACT -->
 ## Contact
 
-Raman Rawat - [Raman_Rawat](https://github.com/Salamandas) - singhramancr7@gmail.com
+Raman Rawat - [Raman_Rawat](https://github.com/RamanRawatCR7) - singhramancr7@gmail.com
 
-Project Link: [https://github.com/Raman-Rawat/MyWaysBlog/tree/master](https://github.com/Raman-Rawat/MyWaysBlog/tree/master)
+Project Link: [](https://github.com/RamanRawatCR7/MyWaysBlog)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
