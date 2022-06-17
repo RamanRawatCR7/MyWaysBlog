@@ -27,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[**MyWays Blog**] (https://mywaysblogs.herokuapp.com/)
+[**MyWays Blog**](https://mywaysblogs.herokuapp.com/)
 
 This project is about a blogging portal for MyWays with functionality to create, read, update, delete blogs. There's a login/signup system in place and only users with admin privileges can post their blogs, other users can only read blogs. There's a checkbox in registration page which says "If you're an admin, check this box" if you check it, you'll get admin privileges and you'll be able to post blogs as you wish. Only one blog can be posted using an account and to edit it press "Submit/Edit/Delete" button and edit it or simply submit a blank blog to delete it. If a new admin user registers an account, he/she will be sent back to the login page to login.
 
